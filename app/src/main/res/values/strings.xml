@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+
+    <string name="nav_home_caption">Home</string>
+    <string name="nav_done_caption">Done</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="google_sign">Continue with Google</string>
+    <string name="Facebook_sign">Continue with Facebook</string>
+
+    <string name="Fist_name">First Name</string>
+    <string name="Last_name">Last Name</string>
+    <string name="Age">Age</string>
+    <string name="Phone">Phone Number</string>
+    <string name="registration_link">Do not have an account?</string>
+    <string name="registration_here_link">Register Here</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="login_here">Login here</string>
+    <string name="ToDo">Todo</string>
+    <string name="Create_Account">Create Account</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
